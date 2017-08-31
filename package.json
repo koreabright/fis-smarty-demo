@@ -1,0 +1,8 @@
+{
+	"name": "my-fis3-demo",
+	"scripts": {
+		"dev": "fis3 server start",
+		"build": "fis3 release -wL",
+		"output": "fis3 release -d ./output"
+	}
+}
